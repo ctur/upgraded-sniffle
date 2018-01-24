@@ -1,2 +1,4 @@
 # upgraded-sniffle
-Project3 on React-Redux
+React-redux template project.
+
+p.s. react and redux has to upgrade.
